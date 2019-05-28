@@ -3,6 +3,9 @@ Aplicativo de Culinária no Android, que permitirá que exiba suas receitas para
 o mundo. O aplicativo que permitirá que um usuário selecione uma receita e veja as etapas guiadas 
 por vídeo sobre como prepará-la.
 
+<img src="https://github.com/daylonsc/recipes/blob/master/Captura%20de%20tela%20de%202019-05-24%2022-18-54.png" />
+<img src="https://github.com/daylonsc/recipes/blob/master/Captura%20de%20tela%20de%202019-05-24%2022-19-59.png" />
+
 # Visão geral do projeto
 
 Você produzirá um aplicativo, levando-o de um estado funcional para um estado preparado para produção. 
